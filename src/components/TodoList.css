@@ -1,0 +1,10 @@
+.TodoList {
+    color: #130f40;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
+    list-style-type: circle;
+    cursor: pointer;
+}
+li {
+    padding: 5px;
+}
