@@ -1,4 +1,4 @@
-ul li {
+.Todo {
     position: relative;
     padding: 10px 40px;
     padding-left: 10px;
@@ -8,7 +8,7 @@ ul li {
     text-align: left;
     width: 240px
 }
-ul button {
+.Todo button {
     position: absolute;
     right: 0px;
     cursor: pointer;
